@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1017207092249",
+    "project_id": "lung-care-35059",
+    "storage_bucket": "lung-care-35059.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017207092249:android:3441a14e0658678e93e688",
+        "android_client_info": {
+          "package_name": "com.example.lung_care"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUPhWvbjpjao-9vDrVEv7P-IIOKFZO4AU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
